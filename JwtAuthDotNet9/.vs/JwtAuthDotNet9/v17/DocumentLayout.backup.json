@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\riya\\source\\repos\\jwtauthdotnet9\\jwtauthdotnet9\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\riya\\source\\repos\\jwtauthdotnet9\\jwtauthdotnet9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\riya\\source\\repos\\jwtauthdotnet9\\jwtauthdotnet9\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\riya\\source\\repos\\jwtauthdotnet9\\jwtauthdotnet9\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\riya\\source\\repos\\jwtauthdotnet9\\jwtauthdotnet9\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\riya\\source\\repos\\jwtauthdotnet9\\jwtauthdotnet9\\models\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\models\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\riya\\source\\repos\\jwtauthdotnet9\\jwtauthdotnet9\\migrations\\20250611214443_addrefreshtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\migrations\\20250611214443_addrefreshtokens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\riya\\source\\repos\\jwtauthdotnet9\\jwtauthdotnet9\\models\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\models\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\riya\\source\\repos\\jwtauthdotnet9\\jwtauthdotnet9\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|c:\\users\\riya\\source\\repos\\jwtauthdotnet9\\jwtauthdotnet9\\migrations\\20250611213321_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EC58D6-97E4-4B44-9BFB-A93656636180}|JwtAuthDotNet9\\JwtAuthDotNet9.csproj|solutionrelative:jwtauthdotnet9\\migrations\\20250611213321_adduserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Entities\\User.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T03:30:47.123Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\.gitignore",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\.gitignore",
+              "ToolTip": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\.gitignore",
+              "RelativeToolTip": "JwtAuthDotNet9\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEBAAAHAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-12T11:37:01.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Program.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Program.cs",
+              "ToolTip": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Program.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAArwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T03:31:54.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\IAuthService.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:19:08.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Models\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:58:39.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T03:30:49.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Services\\AuthService.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Services\\AuthService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:19:45.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250611214443_AddRefreshTokens.cs",
+              "DocumentMoniker": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Migrations\\20250611214443_AddRefreshTokens.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Migrations\\20250611214443_AddRefreshTokens.cs",
+              "ToolTip": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Migrations\\20250611214443_AddRefreshTokens.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Migrations\\20250611214443_AddRefreshTokens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:44:44.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
+              "ToolTip": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Models\\TokenResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:52:08.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250611213321_AddUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Migrations\\20250611213321_AddUserRole.cs",
+              "RelativeDocumentMoniker": "JwtAuthDotNet9\\Migrations\\20250611213321_AddUserRole.cs",
+              "ToolTip": "C:\\Users\\Riya\\source\\repos\\JwtAuthDotNet9\\JwtAuthDotNet9\\Migrations\\20250611213321_AddUserRole.cs",
+              "RelativeToolTip": "JwtAuthDotNet9\\Migrations\\20250611213321_AddUserRole.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:33:22.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

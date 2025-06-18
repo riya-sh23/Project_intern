@@ -1,0 +1,74 @@
+﻿#############################
+# Visual Studio Files
+#############################
+
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+#############################
+# Build Outputs
+#############################
+
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+#############################
+# ASP.NET Core Files
+#############################
+
+# Logs
+logs/
+*.log
+
+# User secrets
+secrets.json
+
+# Environment files
+.env
+.env.*
+
+# App settings (optional: if you use secrets or don't want to leak keys)
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+# Published files
+publish/
+*.pubxml
+
+#############################
+# npm / front-end (if used)
+#############################
+
+node_modules/
+wwwroot/lib/
+wwwroot/dist/
+
+#############################
+# JWT Specific (if secrets used)
+#############################
+
+jwt.private.key
+jwt.public.key
+
+#############################
+# Rider / JetBrains (optional)
+#############################
+
+.idea/
+
+#############################
+# OS Files
+#############################
+
+Thumbs.db
+.DS_Store
